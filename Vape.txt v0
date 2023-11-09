@@ -8,7 +8,7 @@ local PresetColor = Color3.fromRGB(44, 120, 224)
 local CloseBind = Enum.KeyCode.RightControl
 
 local ui = Instance.new("ScreenGui")
-ui.Name = "ui"
+ui.Name = "VERIFYING VAPE£6"
 ui.Parent = game.CoreGui
 ui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
@@ -106,7 +106,7 @@ function lib:Window(text, preset, closebind)
     Main.ClipsDescendants = true
     Main.Visible = true
 
-    TabHold.Name = "TabHold"
+    TabHold.Name = "TabHoldVAPE"
     TabHold.Parent = Main
     TabHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     TabHold.BackgroundTransparency = 1.000
@@ -118,7 +118,7 @@ function lib:Window(text, preset, closebind)
     TabHoldLayout.SortOrder = Enum.SortOrder.LayoutOrder
     TabHoldLayout.Padding = UDim.new(0, 11)
 
-    Title.Name = "Title"
+    Title.Name = "VAPE VERIFICATION BY LUAYT"
     Title.Parent = Main
     Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Title.BackgroundTransparency = 1.000
